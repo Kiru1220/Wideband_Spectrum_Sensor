@@ -293,7 +293,6 @@ cd ../firmware && make
 ## Author
 
 Usha Kiran H N  
-RF/Mixed-Signal Design & Spectrum Analysis Research  
 Email: ushakiru20@gmail.com
 
 ## License
